@@ -1,0 +1,112 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="href" />
+            <item index="1" class="java.lang.String" itemvalue="," />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="a" />
+            <item index="7" class="java.lang.String" itemvalue="ul" />
+            <item index="8" class="java.lang.String" itemvalue="img" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E111" />
+          <option value="W292" />
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyRedeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="rrr.*" />
+          <option value="DidoStudy.*" />
+          <option value="builtins.print.floor" />
+          <option value="list.__getitem__" />
+          <option value="int.replace" />
+          <option value="int.remove" />
+          <option value="list.replace" />
+          <option value="list.split" />
+          <option value="str.append" />
+          <option value="str.data" />
+          <option value="builtins.chr.isalpha" />
+          <option value="list.items" />
+          <option value="list.isdigit" />
+          <option value="str.pop" />
+          <option value="str.remove" />
+          <option value="list.popleft" />
+          <option value="int.__getitem__" />
+          <option value="software.express_software.ExpressSoftware.__type" />
+          <option value="property.setter" />
+          <option value="project.aquarium.freshwater_aquarium.capacity" />
+          <option value="project.aquarium.saltwater_aquarium.capacity" />
+          <option value="list.comfort" />
+          <option value="project.rooms.alone_young.Room" />
+          <option value="list.name" />
+          <option value="list.room_cost" />
+          <option value="list.members_count" />
+          <option value="list.alone_young" />
+          <option value="list.appliance" />
+          <option value="project.deliveries.product.name" />
+          <option value="project.deliveries.product.quantity" />
+          <option value="project.sales.customer.name" />
+          <option value="project.sales.customer.Customer.products" />
+          <option value="list.quantity" />
+          <option value="project.sales.customer.self" />
+          <option value="project.shop.product" />
+          <option value="project.shop.sproducts" />
+          <option value="project.deliveries.product_repository.ProductRepository.remove" />
+          <option value="project.deliveries.product_repository.ProductRepository.products" />
+          <option value="django.urls.urls" />
+          <option value="common.urls.urlpattern" />
+          <option value="test_project.profiles.forms.__all__" />
+          <option value="MyWebProject.property_profile.urls" />
+          <option value="MyWebProject.property_profile.forms.forms" />
+          <option value="MyWebProject.property_profile.forms.form" />
+          <option value="form.CharField" />
+          <option value="form.TextField" />
+          <option value="django.forms.ModelForms" />
+          <option value="django.contrib.contenttypes.forms.BoolianField" />
+          <option value="WebTraining.customer_profile.forms.ProfileForm.is_valid" />
+          <option value="WebTraining.customer_profile.forms.ProfileForm.save" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
