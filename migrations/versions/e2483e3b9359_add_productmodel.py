@@ -31,13 +31,13 @@ def upgrade():
     )
     op.alter_column('admins', 'username',
                existing_type=sa.VARCHAR(length=250),
-               nullable=False)
+               )
     op.alter_column('sellers', 'username',
                existing_type=sa.VARCHAR(length=250),
-               nullable=False)
+               )
     op.alter_column('users', 'username',
                existing_type=sa.VARCHAR(length=250),
-               nullable=False)
+               )
     # ### end Alembic commands ###
 
 
